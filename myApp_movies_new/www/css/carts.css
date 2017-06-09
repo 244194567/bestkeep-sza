@@ -1,0 +1,36 @@
+#myheader{
+
+  background-color: #F2F2F2;
+  height: 250px;
+  width: 100%;
+  color: #A0A0A0;
+
+}
+
+#myheader>p{
+  text-align: center;
+  padding-top: 100px;
+}
+
+#myheader>a{
+ position: relative;
+  left: 30%;
+  width: 150px;
+}
+
+.glyphicon-star-empty{
+  color:  #A0A0A0;
+  position: relative;
+  left: 35%;
+  top: 5px;
+}
+
+#span1{
+  position: relative;
+  left: 35%;
+}
+
+#show{
+  padding-bottom: 10px;
+  border-bottom: 1px solid  #F2F2F2;
+}
