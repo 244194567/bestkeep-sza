@@ -1,14 +1,22 @@
 #welcome_div{
   height: 100%;
-  background-color: #beffe1;
+  background-color:#01D299;
   text-align:center
 }
 #welcome_div h2{
   position: relative;
-  top: 50%;
+  top: 35%;
+  color: white;
 }
-#welcome_div h6{
+#welcome_div h3{
   position: relative;
-  top: 70%;
+  top: 50%;
   left: 10%;
+  color: white;
+}
+
+#bk{
+  width: 140px;
+  height: 140px;
+
 }

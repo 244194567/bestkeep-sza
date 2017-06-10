@@ -3,7 +3,7 @@
  */
 angular.module('guidepage.service', [])
   .factory('GuidePageFty', function() {
-    var name = "腾科togogo";
+    var name = "悠唐UTOUU";
     return {
       getName:function () {
         return name;

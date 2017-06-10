@@ -43,3 +43,14 @@ height: 150px;
   position: relative;
   top: 25px;
 }
+
+
+
+.carousel-inner{
+position: relative;
+  left: -20px;
+  width: 120%;
+  top: 0px;
+}
+
+
